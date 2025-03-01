@@ -1,6 +1,9 @@
 # README e Markdown ✔
 
-> **Bem Vindo** ao meu repositório, vou estar listando aqui diversas marcações de Markdown e informações sobre **git**.
+> **Bem Vindo** ao meu repositório, vou estar listando aqui diversas marcações de Markdown e informações sobre **git**. Os desafios de código foram feitos para testar as funcionalidades do Codespaces e Copilot do GitHub.
+
+## Desafios de Código Python 🐍
+No diretório de desafios têm exercícios de código com a linguagem de programação Python.
 
 ## Aprendendo sobre Git na CLI 😜
 Antes de começar, certifique-se de instalar o [Git](https://git-scm.com/downloads) no site oficial. 
